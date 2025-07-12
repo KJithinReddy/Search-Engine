@@ -29,19 +29,20 @@ This app is powered by:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/semantic-search-chat.git  
-   cd semantic-search-chat
+   git clone https://github.com/KJithinReddy/Search-Engine.git
+   
+   cd Search-Engine
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
 
    python -m venv venv  
    source venv/bin/activate      # On Windows: venv\Scripts\activate
 
-3. Install dependencies:
+4. Install dependencies:
 
    pip install -r requirements.txt
 
-4. Add your text data:
+5. Add your text data:
 
    - Create a `document.txt` file in the root folder  
    - Each line should be a standalone document (sentence, paragraph, or entry)
